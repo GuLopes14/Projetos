@@ -180,7 +180,7 @@ def modoFacil():
                         print('\nEmpate!')
                         time.sleep(3)
                         break
-                    jogador_atual = simbolo_jogador
+                jogador_atual = simbolo_jogador
                 
 
         # Verifica se algum jogador atingiu 3 vitórias para declarar o vencedor e encerrar o jogo
